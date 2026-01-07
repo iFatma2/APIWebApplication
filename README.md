@@ -1,4 +1,4 @@
-# Simple Web API Project 🚀
+# Simple Web API Project 
 
 This is a simple project I built using **ASP.NET Core** and **JetBrains Rider** to practice and understand how APIs and Controllers work.
 
